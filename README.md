@@ -2,12 +2,7 @@
 
 ## Heading
 
-```
-Code snippet here
-def newFunc():
-    print("hello world")
-```
-
+<br/>
 1.  Ordered list
 1.  Second place
 1.  Third thing
@@ -15,8 +10,8 @@ def newFunc():
     1. Second nested item
 1.  Fourth thing
 
-1.        Test thing
-1.        Second test thing
+1.         Test thing
+1.         Second test thing
 
 ```python
 def newFunc():
