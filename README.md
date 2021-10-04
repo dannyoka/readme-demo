@@ -15,8 +15,8 @@ def newFunc():
     1. Second nested item
 1.  Fourth thing
 
-1.       Test thing
-1.       Second test thing
+1.        Test thing
+1.        Second test thing
 
 ```python
 def newFunc():
@@ -32,3 +32,5 @@ def newFunc():
 | Row 1  | Row 2  |
 | Row 3  | Cell B |
 | Row 4  | Cell C |
+
+:grinning:
